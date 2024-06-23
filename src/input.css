@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .dayForecast {
+        @apply bg-cyan-500 md:w-[calc(100%/5.3)] lg:w-[calc(100%/5.3)] flex-wrap md:flex-wrap sm:flex-wrap ml-0 rounded-lg leading-7 p-3 text-white;
+    }
+}
+
+@layer base {
+    * {
+        @apply m-0 p-0 box-border;
+    }
+}
