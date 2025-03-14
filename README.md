@@ -24,6 +24,10 @@ This Weather Forecast Application provides current weather conditions and a 5-da
 - Node.js and npm installed
 - A web browser
 
+## 🖼️ Screenshot
+
+![App Screenshot](./Screenshot%202025-03-14%20174942.png)
+
 ### Installation
 
 1. Clone the repository:
