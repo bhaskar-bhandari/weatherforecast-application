@@ -25,8 +25,8 @@ This Weather Forecast Application provides current weather conditions and a 5-da
 - A web browser
 
 ## 🖼️ Screenshot
+![Screenshot 2025-03-14 174942](https://github.com/user-attachments/assets/1a56dd35-7475-4d0c-8b72-e9ba36dead5d)
 
-![App Screenshot](./Screenshot%202025-03-14%20174942.png)
 
 ### Installation
 
